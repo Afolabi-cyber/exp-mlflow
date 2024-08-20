@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c664260b63ff402b872c61e7ba49f55a/artifacts
+end_time: 1724168216920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c664260b63ff402b872c61e7ba49f55a
+run_name: colorful-trout-990
+run_uuid: c664260b63ff402b872c61e7ba49f55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724168210842
+status: 3
+tags: []
+user_id: user

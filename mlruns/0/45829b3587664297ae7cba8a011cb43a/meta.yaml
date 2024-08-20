@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/45829b3587664297ae7cba8a011cb43a/artifacts
+end_time: 1724167409495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45829b3587664297ae7cba8a011cb43a
+run_name: rebellious-panda-513
+run_uuid: 45829b3587664297ae7cba8a011cb43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724167403307
+status: 4
+tags: []
+user_id: user

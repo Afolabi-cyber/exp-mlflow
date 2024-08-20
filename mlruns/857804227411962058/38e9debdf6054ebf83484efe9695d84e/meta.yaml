@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857804227411962058/38e9debdf6054ebf83484efe9695d84e/artifacts
+end_time: 1724170037926
+entry_point_name: ''
+experiment_id: '857804227411962058'
+lifecycle_stage: active
+run_id: 38e9debdf6054ebf83484efe9695d84e
+run_name: delicate-flea-224
+run_uuid: 38e9debdf6054ebf83484efe9695d84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724170016469
+status: 3
+tags: []
+user_id: user

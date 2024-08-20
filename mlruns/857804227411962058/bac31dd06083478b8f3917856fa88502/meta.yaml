@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857804227411962058/bac31dd06083478b8f3917856fa88502/artifacts
+end_time: 1724170575177
+entry_point_name: ''
+experiment_id: '857804227411962058'
+lifecycle_stage: active
+run_id: bac31dd06083478b8f3917856fa88502
+run_name: enchanting-snake-118
+run_uuid: bac31dd06083478b8f3917856fa88502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724170559238
+status: 3
+tags: []
+user_id: user

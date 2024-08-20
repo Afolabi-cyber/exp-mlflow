@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/857804227411962058/883d49fd20604506b3ff24974d7f7028/artifacts
+end_time: 1724170304131
+entry_point_name: ''
+experiment_id: '857804227411962058'
+lifecycle_stage: active
+run_id: 883d49fd20604506b3ff24974d7f7028
+run_name: receptive-croc-647
+run_uuid: 883d49fd20604506b3ff24974d7f7028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724170287597
+status: 3
+tags: []
+user_id: user

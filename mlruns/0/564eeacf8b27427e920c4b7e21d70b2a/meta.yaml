@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/564eeacf8b27427e920c4b7e21d70b2a/artifacts
+end_time: 1724168517387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 564eeacf8b27427e920c4b7e21d70b2a
+run_name: orderly-skunk-418
+run_uuid: 564eeacf8b27427e920c4b7e21d70b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724168505078
+status: 3
+tags: []
+user_id: user
